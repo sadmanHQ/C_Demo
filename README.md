@@ -1,4 +1,4 @@
 # C_Demo
-Programs using c-Language
+Programs using C-Language
 <br>
 Author - Sadman Hossain
